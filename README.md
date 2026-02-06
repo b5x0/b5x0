@@ -66,7 +66,7 @@ I am a **Software Engineering Student** and a **U.S. Exchange Alumni (SUSI EE)**
 * **1.3M+** Active Users across Roblox projects
 * **2029** Expected Graduation (Software Engineering)
 * **Gold** Medal Winner (International Science Fairs)
-* 
+  
 <br/>
 
 <div align="center">
