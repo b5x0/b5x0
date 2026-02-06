@@ -8,7 +8,7 @@
     <i>"Creating tech that educates, empowers, and connects people across borders."</i>
   </p>
 
-  <a href="https://www.linkedin.com/in/mohamed-attia-bb3238240/">
+  <a href="https://www.linkedin.com/in/mohamed-attia-495915318/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamedattia.business.official@gmail.com">
@@ -54,7 +54,7 @@ I am a **Software Engineering Student** and a **U.S. Exchange Alumni (SUSI EE)**
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b5x0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b5x0&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b5x0&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
@@ -70,9 +70,9 @@ I am a **Software Engineering Student** and a **U.S. Exchange Alumni (SUSI EE)**
 | Project | Description | Tech / Awards |
 | :--- | :--- | :--- |
 | [**Massar**](https://github.com/b5x0/rail-network-brain) | **Neuro-Symbolic RAC for Rail.** Industrial-grade SIL-4 collision avoidance system using Kinematic State Retrieval and Physics Veto engine. | Python, React, Qdrant |
-| [**StudySphere**](https://github.com/b5x0/StudySphere) | **AI-powered educational platform** with smart tutoring and interactive resources. | [cite_start]🥇 **Gold Medal**: I-FEST & MOSTRATEC  |
-| [**El MatriX**](https://github.com/b5x0/ElMatrix) | **Anti-Scam Gamification.** Uses Google Gemini to generate culturally adaptive Tunisian scam scenarios for experiential learning. | [cite_start]Gemini AI, Unity, "El Moufatteche" Bot  | [cite_start]🥇 **Gold Medal**: AINS
-| **Omi Fadhila** | Gamified platform for Tunisian history & heritage. | [cite_start]🥇 **First Place**: Shoufli Hal Bootcamp  |
+| [**StudySphere**](https://github.com/b5x0/StudySphere) | **AI-powered educational platform** with smart tutoring and interactive resources. | 🥇 **Gold Medal**: I-FEST & MOSTRATEC  |
+| [**El MatriX**](https://github.com/b5x0/ElMatrix) | **Anti-Scam Gamification.** Uses Google Gemini to generate culturally adaptive Tunisian scam scenarios for experiential learning. | Gemini AI, Unity, "El Moufatteche" Bot  | 🥇 **Gold Medal**: AINS
+| **Omi Fadhila** | Gamified platform for Tunisian history & heritage. | 🥇 **First Place**: Shoufli Hal Bootcamp  |
 
 <br/>
 
