@@ -51,20 +51,6 @@ I am a **Software Engineering Student** and a **U.S. Exchange Alumni (SUSI EE)**
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b5x0&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b5x0&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=b5x0&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech / Awards |
@@ -74,6 +60,13 @@ I am a **Software Engineering Student** and a **U.S. Exchange Alumni (SUSI EE)**
 | [**El MatriX**](https://github.com/b5x0/ElMatrix) | **Anti-Scam Gamification.** Uses Google Gemini to generate culturally adaptive Tunisian scam scenarios for experiential learning. | Gemini AI, Unity, "El Moufatteche" Bot  | 🥇 **Gold Medal**: AINS
 | **Omi Fadhila** | Gamified platform for Tunisian history & heritage. | 🥇 **First Place**: Shoufli Hal Bootcamp  |
 
+---
+
+### ⚡ By The Numbers
+* **1.3M+** Active Users across Roblox projects
+* **2029** Expected Graduation (Software Engineering)
+* **Gold** Medal Winner (International Science Fairs)
+* 
 <br/>
 
 <div align="center">
