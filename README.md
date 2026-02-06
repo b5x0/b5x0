@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**b5x0/b5x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 align="center">Hi there, I'm Mohamed Attia 👋</h1>
+  
+  <h3>Software Engineer Student | Game Developer | AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <i>"Creating tech that educates, empowers, and connects people across borders."</i>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/mohamed-attia-bb3238240/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamedattia.business.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+<hr/>
+
+### 👨‍💻 About Me
+
+I am a **Software Engineering Student** and a **U.S. Exchange Alumni (SUSI EE)** based in Tunisia. I blend technical precision with creative game design to build impactful solutions.
+
+* 🎮 **Game Dev:** Co-Founder of **NomadByte**. My Roblox systems have served **1.3M+ users**.
+* 🤖 **Robotics & AI:** Co-Founder of **Mechify** and expert in AI/LLM integration.
+* 🏆 **Awards:** Gold Medalist at **I-FEST** & **MOSTRATEC** (Brazil).
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Qdrant-D50000?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=b5x0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b5x0&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=b5x0&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech / Awards |
+| :--- | :--- | :--- |
+| [**Massar**](https://github.com/b5x0/rail-network-brain) | **Neuro-Symbolic RAC for Rail.** Industrial-grade SIL-4 collision avoidance system using Kinematic State Retrieval and Physics Veto engine. | Python, React, Qdrant |
+| [**StudySphere**](https://github.com/b5x0/StudySphere) | **AI-powered educational platform** with smart tutoring and interactive resources. | [cite_start]🥇 **Gold Medal**: I-FEST & MOSTRATEC  |
+| [**El MatriX**](https://github.com/b5x0/ElMatrix) | **Anti-Scam Gamification.** Uses Google Gemini to generate culturally adaptive Tunisian scam scenarios for experiential learning. | [cite_start]Gemini AI, Unity, "El Moufatteche" Bot  | [cite_start]🥇 **Gold Medal**: AINS
+| **Omi Fadhila** | Gamified platform for Tunisian history & heritage. | [cite_start]🥇 **First Place**: Shoufli Hal Bootcamp  |
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=b5x0&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
